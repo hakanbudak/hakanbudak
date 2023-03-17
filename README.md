@@ -15,7 +15,7 @@
 <p align=" sol">
 <a href="https://codepen.io/hakanbudak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/codepen.svg" alt="hakanbudak" height="30" width="40" /></a>
 <a href="https://dev.to/hakanbudak " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg " alt="hakanbudak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hakan-budak-7ab3071b5" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakan-budak-7ab3071b5" height="30" width="40 " /></a>
+<a href="https://linkedin.com/in/hakan-budak" target="blank"><img hizala ="merkez" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakan-budak" height="30" width="40" />< /a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
