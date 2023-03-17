@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Hakan Budak</h1>
 <h3 align="center">Tutkulu bir önyüz geliştiricisi</h3>
 
-<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanbudak" alt="hakanbudak" />< /a> </p>
+<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanbudak" alt="hakanbudak" /></p>
 
 - 🔭 Şu anda [twitter-clone](https://github.com/hakanbudak/twitter-clone) üzerinde çalışıyorum
 
