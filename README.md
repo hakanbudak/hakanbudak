@@ -21,6 +21,7 @@ https ://linkedin.com/in/https://www.linkedin.com/in/hakan-budak-7ab3071b5/" tar
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakanbudak&show_icons=true&locale=en&layout=compact" alt="hakanbudak" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hakanbudak&show_icons=true&theme=dark&locale=en" alt="hakanbudak" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hakanbudak&show_icons=true&theme=dark&locale=en" alt="hakanbudak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakanbudak&" alt="hakanbudak" /></p >
+
