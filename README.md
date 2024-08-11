@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanbudak" alt="hakanbudak" /></a> </p>
 
-- 🔭 I’m currently working on [twitter-clone](https://github.com/hakanbudak/twitter-clone)
+- 🔭 I’m currently working on [football-players-quiz](https://github.com/hakanbudak/football-players-quiz)
 
-- 🌱 I’m currently learning **Vue 3**
+- 🌱 I’m currently learning **React, Next.js**
 
 - 🔭 You can find my blogs here [https://medium.com/@hakanbudk0](https://medium.com/@hakanbudk0)
 
