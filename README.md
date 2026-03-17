@@ -1,29 +1,58 @@
-<h1 align="center">Hi 👋, I'm Hakan Budak</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanbudak" alt="hakanbudak" /></a> </p>
+<h1>Hey, I'm Hakan Budak 👋</h1>
+<h3>Frontend Developer · Vue · React · Next.js</h3>
 
-- 🔭 I’m currently working on [football-players-quiz](https://github.com/hakanbudak/football-players-quiz)
+<br/>
 
-- 🌱 I’m currently learning **React, Next.js**
+![](https://img.shields.io/badge/📍_Izmir-TR-161b22?style=for-the-badge&color=0d1117)
+![](https://img.shields.io/badge/🌱_Learning-React_%26_Next.js-161b22?style=for-the-badge&color=0d1117)
 
-- 🔭 You can find my blogs here [https://medium.com/@hakanbudk0](https://medium.com/@hakanbudk0)
+<br/><br/>
 
-- 💬 Ask me about **Html , CSS , JS , VUE**
+</div>
 
-- 📫 How to reach me **hakanbudk0@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/hakanbudak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hakanbudak" height="30" width="40" /></a>
-<a href="https://dev.to/hakanbudak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hakanbudak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hakan-budak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakan-budak" height="30" width="40" /></a>
-<a href="https://medium.com/@hakanbudk0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hakanbudk0" height="30" width="40" /></a>
-</p>
+### ⚡ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1697F6?style=flat-square&logo=vuetify&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakanbudak&show_icons=true&theme=dark&locale=en" alt="hakanbudak" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakanbudak&theme=dark" alt="hakanbudak" /></p>
+### 🚀 Featured Project
+
+🔨 Currently working on → [**nobetci-eczane-v2**](https://github.com/hakanbudak/nobetci-eczane-v2)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakanbudak&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanbudak&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&hide=python,jupyter%20notebook&langs_count=6" height="165"/>
+</div>
+
+---
+
+### ✍️ Writing
+
+→ [Medium — @hakanbudk0](https://medium.com/@hakanbudk0)  
+→ [Dev.to — hakanbudak](https://dev.to/hakanbudak)
+
+---
+
+### 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakan-budak)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/hakanbudak)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hakanbudk0)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hakanbudk0@gmail.com)
